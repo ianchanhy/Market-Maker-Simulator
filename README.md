@@ -1,11 +1,11 @@
 # **Interactive Market Maker Simulator**
 This is a project I built to learn and demonstrate the core fundamentals of quantitative market making.
 
-It's an interactive dashboard (built with Streamlit) that simulates a market maker's "brain" trying to quote prices, manage risk, and make a profit in a dynamic, "live" market. The "brain" itself is a complete implementation of the famous 2008 Avellaneda-Stoikov academic model, which solves for the optimal prices to quote.
+It's an interactive dashboard (built with Streamlit) that simulates a market maker's "brain" trying to quote prices, manage risk, and make a profit in a dynamic, "live" market. The "brain" itself is a complete implementation of the  2008 Avellaneda-Stoikov academic model, which solves for the optimal prices to quote.
 
 
 ## **How to Run**
-1. Clone this repository:git clone https://github.com/your-username/market-maker-simulator.git
+1. Clone this repository:git clone https://github.com/ianchanhy/market-maker-simulator.git
 
 2. Move into the folder:cd market-maker-simulator
 
